@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="74.785889mm"
+   height="35.848732mm"
+   viewBox="0 0 74.785889 35.848732"
+   version="1.1"
+   id="svg2712"
+   inkscape:version="0.92.4 (fd57863, 2020-04-02)"
+   sodipodi:docname="dog.svg"
+   inkscape:export-filename="/home/not-yeshwanth-reddy/Documents/Unity Projects/karepaaak_files/Designes/Exports/Player/dog.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2706" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.2621893"
+     inkscape:cx="142.84401"
+     inkscape:cy="49.623191"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2709">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(27.799456,-67.357277)">
+    <rect
+       y="73.966606"
+       x="24.678841"
+       height="18.41781"
+       width="21.754368"
+       id="rect9510"
+       style="opacity:1;fill:#604d47;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       transform="rotate(23.144984)"
+       y="80.265121"
+       x="5.6230688"
+       height="2.7803411"
+       width="11.58219"
+       id="rect9526"
+       style="opacity:1;fill:#725840;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="0"
+       y="80.000481"
+       x="-17.996391"
+       height="22.955532"
+       width="42.707966"
+       id="rect9506-6"
+       style="opacity:1;fill:#cd8b52;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9572"
+       d="m 33.45642,78.82384 1.6987,-10.56968 -5.28484,6.60605 z"
+       style="fill:#cd8b52;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="74.178459"
+       x="24.982063"
+       height="18.417812"
+       width="21.75437"
+       id="rect9510-2"
+       style="opacity:1;fill:#604d47;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9572-6"
+       d="m 24.91215,78.82726 -1.6987,-10.56968 5.28484,6.60605 z"
+       style="fill:#cd8b52;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>

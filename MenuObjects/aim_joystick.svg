@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="145.24042mm"
+   height="82.952965mm"
+   viewBox="0 0 145.24042 82.952965"
+   version="1.1"
+   id="svg1379"
+   inkscape:version="0.92.4 (fd57863, 2020-04-02)"
+   sodipodi:docname="aim_joystick.svg"
+   inkscape:export-filename="/home/not-yeshwanth-reddy/Documents/Unity Projects/karepaaak_files/Designes/Exports/MenuObjects/aim_joystick.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs1373" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.66015385"
+     inkscape:cx="284.96412"
+     inkscape:cy="172.73912"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata1376">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-49.220081,-136.08797)">
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.25490196;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1359"
+       cx="90.696564"
+       cy="177.56445"
+       r="39.976482" />
+    <circle
+       r="18.282059"
+       style="opacity:1;fill:#000000;fill-opacity:0.65196078;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1361"
+       cx="174.67844"
+       cy="175.27448" />
+  </g>
+</svg>
