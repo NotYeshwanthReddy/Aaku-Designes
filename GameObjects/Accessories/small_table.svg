@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45635776"
-     inkscape:cx="4.8453828"
-     inkscape:cy="98.017414"
+     inkscape:zoom="1.6830144"
+     inkscape:cx="270.91315"
+     inkscape:cy="-27.905205"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -40,7 +40,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -48,16 +48,16 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-5.7002436,-140.94246)">
+     transform="translate(24.171833,-114.62258)">
     <g
-       id="g4555"
-       transform="translate(-1204.9344,-549.00987)">
+       transform="translate(-468.59026,-531.87394)"
+       id="g6022">
       <rect
          transform="matrix(0,-1,-1,0,0,0)"
          ry="0"
          rx="1.1369734"
-         y="-1228.1405"
-         x="-711.42395"
+         y="-461.92429"
+         x="-667.96814"
          height="3.0488374"
          width="18.297583"
          id="rect4430-6-7-6"
@@ -66,8 +66,8 @@
          transform="matrix(0,-1,-1,0,0,0)"
          ry="0"
          rx="1.1369734"
-         y="-1260.7323"
-         x="-711.42395"
+         y="-494.51608"
+         x="-667.96814"
          height="3.0488374"
          width="18.297583"
          id="rect4430-6-7-9"
@@ -75,8 +75,8 @@
       <rect
          ry="1.3584917"
          rx="3.0746436"
-         y="690.70233"
-         x="1211.3846"
+         y="647.24652"
+         x="445.16843"
          height="4.151844"
          width="55.989582"
          id="rect4430"
@@ -84,8 +84,8 @@
       <rect
          ry="1.3584917"
          rx="3.0746439"
-         y="711.43945"
-         x="1212.0671"
+         y="667.98364"
+         x="445.85092"
          height="4.151844"
          width="55.989582"
          id="rect4430-6"
@@ -94,8 +94,8 @@
          transform="matrix(0,-1,-1,0,0,0)"
          ry="0"
          rx="1.1369734"
-         y="-1221.5055"
-         x="-713.15289"
+         y="-455.28928"
+         x="-669.69708"
          height="3.0488374"
          width="18.297583"
          id="rect4430-6-7"
@@ -104,22 +104,22 @@
          transform="matrix(0,-1,-1,0,0,0)"
          ry="0"
          rx="1.1369734"
-         y="-1254.7878"
-         x="-713.49048"
+         y="-488.57162"
+         x="-670.03467"
          height="3.0488374"
          width="18.297583"
          id="rect4430-6-7-0"
          style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:1.37313664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <circle
          r="3.5"
-         cy="719.42554"
-         cx="1222.5531"
+         cy="675.96973"
+         cx="456.33688"
          id="path4490"
          style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <circle
          r="3.5"
-         cy="719.52698"
-         cx="1256.8673"
+         cy="676.07117"
+         cx="490.65109"
          id="path4490-7"
          style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
